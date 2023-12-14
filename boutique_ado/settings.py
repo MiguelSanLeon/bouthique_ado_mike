@@ -28,7 +28,7 @@ DEBUG = True
 # 'DEVELOPMENT' in os.environ
 
 ALLOWED_HOSTS = ['boutique-ado-mike-8ab1d2bb405e.herokuapp.com',
-    '8000-miguelsanleon-bouthique--bttlg45xe4.us2.codeanyapp.com']
+                 '8000-miguelsanleon-bouthique--bttlg45xe4.us2.codeanyapp.com']
 
 
 # Application definition
